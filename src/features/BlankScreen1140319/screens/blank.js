@@ -26,7 +26,7 @@ export class _Blank extends React.Component {
 
   render = () => (
     <View style={styles.View_1}>
-      <Icon iconFont="FontAwesome Icons" name="star" style={styles.Icon_3} />
+      <Icon iconFont="FontAwesome Icons" style={styles.Icon_3} />
     </View>
   )
 }
